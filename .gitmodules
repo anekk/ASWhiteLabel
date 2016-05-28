@@ -1,0 +1,3 @@
+[submodule "ASWhiteLabel/RACFIRAuth"]
+	path = ASWhiteLabel/RACFIRAuth
+	url = https://github.com/anekk/RACFIRAuth.git
